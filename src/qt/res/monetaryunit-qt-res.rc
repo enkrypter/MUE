@@ -19,14 +19,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "MonetaryUnit"
-            VALUE "FileDescription",    "MonetaryUnit Core (OSS GUI client for MonetaryUnit)"
+            VALUE "CompanyName",        "Bold"
+            VALUE "FileDescription",    "Bold Core (OSS GUI client for Bold)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "monetaryunit-qt"
+            VALUE "InternalName",       "bold-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "monetaryunit-qt.exe"
-            VALUE "ProductName",        "MonetaryUnit Core"
+            VALUE "OriginalFilename",   "bold-qt.exe"
+            VALUE "ProductName",        "Bold Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

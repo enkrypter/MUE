@@ -186,6 +186,6 @@
     <name>ZPhrControlDialog</name>
     </context>
 <context>
-    <name>monetaryunit-core</name>
+    <name>bold-core</name>
     </context>
 </TS>

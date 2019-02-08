@@ -85,7 +85,7 @@ HEADERS += src/activemasternode.h \
            src/crypter.h \
            src/obfuscation-relay.h \
            src/obfuscation.h \
-           src/monetaryunit-config.h \
+           src/bold-config.h \
            src/db.h \
            src/eccryptoverify.h \
            src/ecwrapper.h \
@@ -143,7 +143,7 @@ HEADERS += src/activemasternode.h \
            src/compat/sanity.h \
            src/consensus/merkle.h \
            src/consensus/validation.h \
-           src/config/monetaryunit-config.h \
+           src/config/bold-config.h \
            src/crypto/common.h \
            src/crypto/hmac_sha256.h \
            src/crypto/hmac_sha512.h \
@@ -345,7 +345,7 @@ HEADERS += src/activemasternode.h \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.h \
            src/crypto/aes_helper.c \
            src/qt/bitcoinamountfield.moc \
-           src/qt/monetaryunit.moc \
+           src/qt/bold.moc \
            src/qt/intro.moc \
            src/qt/overviewpage.moc \
            src/qt/rpcconsole.moc \
@@ -387,9 +387,9 @@ SOURCES += src/activemasternode.cpp \
            src/crypter.cpp \
            src/obfuscation-relay.cpp \
            src/obfuscation.cpp \
-           src/monetaryunit-cli.cpp \
-           src/monetaryunit-tx.cpp \
-           src/monetaryunit.cpp \
+           src/bold-cli.cpp \
+           src/bold-tx.cpp \
+           src/bold.cpp \
            src/db.cpp \
            src/eccryptoverify.cpp \
            src/ecwrapper.cpp \
@@ -487,8 +487,8 @@ SOURCES += src/activemasternode.cpp \
            src/qt/coincontroltreewidget.cpp \
            src/qt/csvmodelwriter.cpp \
            src/qt/obfuscationconfig.cpp \
-           src/qt/monetaryunit.cpp \
-           src/qt/monetaryunitstrings.cpp \
+           src/qt/bold.cpp \
+           src/qt/boldstrings.cpp \
            src/qt/editaddressdialog.cpp \
            src/qt/guiutil.cpp \
            src/qt/intro.cpp \
@@ -566,7 +566,7 @@ SOURCES += src/activemasternode.cpp \
            src/test/sighash_tests.cpp \
            src/test/sigopcount_tests.cpp \
            src/test/skiplist_tests.cpp \
-           src/test/test_monetaryunit.cpp \
+           src/test/test_bold.cpp \
            src/test/timedata_tests.cpp \
            src/test/transaction_tests.cpp \
            src/test/uint256_tests.cpp \
@@ -657,21 +657,21 @@ SOURCES += src/activemasternode.cpp \
            src/leveldb/helpers/memenv/memenv.cc \
            src/leveldb/helpers/memenv/memenv_test.cc \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c
-RESOURCES += src/qt/monetaryunit.qrc src/qt/monetaryunit_locale.qrc
+RESOURCES += src/qt/bold.qrc src/qt/bold_locale.qrc
 
-TRANSLATIONS += src/qt/locale/monetaryunit_bg.ts \
-                src/qt/locale/monetaryunit_de.ts \
-                src/qt/locale/monetaryunit_en.ts \
-                src/qt/locale/monetaryunit_es.ts \
-                src/qt/locale/monetaryunit_fi.ts \
-                src/qt/locale/monetaryunit_fr.ts \
-                src/qt/locale/monetaryunit_it.ts \
-                src/qt/locale/monetaryunit_ja.ts \
-                src/qt/locale/monetaryunit_pl.ts \
-                src/qt/locale/monetaryunit_pt.ts \
-                src/qt/locale/monetaryunit_ru.ts \
-                src/qt/locale/monetaryunit_sk.ts \
-                src/qt/locale/monetaryunit_sv.ts \
-                src/qt/locale/monetaryunit_vi.ts \
-                src/qt/locale/monetaryunit_zh_CN.ts \
-                src/qt/locale/monetaryunit_zh_TW.ts
+TRANSLATIONS += src/qt/locale/bold_bg.ts \
+                src/qt/locale/bold_de.ts \
+                src/qt/locale/bold_en.ts \
+                src/qt/locale/bold_es.ts \
+                src/qt/locale/bold_fi.ts \
+                src/qt/locale/bold_fr.ts \
+                src/qt/locale/bold_it.ts \
+                src/qt/locale/bold_ja.ts \
+                src/qt/locale/bold_pl.ts \
+                src/qt/locale/bold_pt.ts \
+                src/qt/locale/bold_ru.ts \
+                src/qt/locale/bold_sk.ts \
+                src/qt/locale/bold_sv.ts \
+                src/qt/locale/bold_vi.ts \
+                src/qt/locale/bold_zh_CN.ts \
+                src/qt/locale/bold_zh_TW.ts

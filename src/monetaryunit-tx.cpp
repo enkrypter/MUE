@@ -48,10 +48,10 @@ static bool AppInitRawTx(int argc, char* argv[])
 
     if (argc < 2 || mapArgs.count("-?") || mapArgs.count("-help")) {
         // First part of help message is specific to this utility
-        std::string strUsage = _("MonetaryUnit Core monetaryunit-tx utility version") + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = _("Bold Core bold-tx utility version") + " " + FormatFullVersion() + "\n\n" +
                                _("Usage:") + "\n" +
-                               "  monetaryunit-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded monetaryunit transaction") + "\n" +
-                               "  monetaryunit-tx [options] -create [commands]   " + _("Create hex-encoded monetaryunit transaction") + "\n" +
+                               "  bold-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded bold transaction") + "\n" +
+                               "  bold-tx [options] -create [commands]   " + _("Create hex-encoded bold transaction") + "\n" +
                                "\n";
 
         fprintf(stdout, "%s", strUsage.c_str());
@@ -566,7 +566,7 @@ static int CommandLineRawTx(int argc, char* argv[])
             if (argc < 2)
                 throw runtime_error("too few parameters");
 
-            // param: hex-encoded monetaryunit transaction
+            // param: hex-encoded bold transaction
             string strHexTx(argv[1]);
             if (strHexTx == "-") // "-" implies standard input
                 strHexTx = readStdin();

@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>选择发送MonetaryUnit coin的地址</translation>
+        <translation>选择发送Bold coin的地址</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>选择接收MonetaryUnit coin的地址</translation>
+        <translation>选择接收Bold coin的地址</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -62,12 +62,12 @@
         <translation>接收地址</translation>
     </message>
     <message>
-        <source>These are your MonetaryUnit addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>这是用于发送MonetaryUnit的地址。在发送MonetaryUnit之前，请认真核查发送金额和接收地址。</translation>
+        <source>These are your Bold addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>这是用于发送Bold的地址。在发送Bold之前，请认真核查发送金额和接收地址。</translation>
     </message>
     <message>
-        <source>These are your MonetaryUnit addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>这是用于接收MonetaryUnit的钱包地址。建议每一笔交易都使用一个新的钱包地址。</translation>
+        <source>These are your Bold addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>这是用于接收Bold的钱包地址。建议每一笔交易都使用一个新的钱包地址。</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>确认钱包加密</translation>
     </message>
     <message>
-        <source>MonetaryUnit will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your MUEs from being stolen by malware infecting your computer.</source>
-        <translation>MonetaryUnit将关闭以完成加密过程。但是，仅仅加密您的钱包是不够的，因为它并不能阻止恶意软件从您的电脑里面偷取MUEs。</translation>
+        <source>Bold will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BOLDs from being stolen by malware infecting your computer.</source>
+        <translation>Bold将关闭以完成加密过程。但是，仅仅加密您的钱包是不够的，因为它并不能阻止恶意软件从您的电脑里面偷取BOLDs。</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>您确定加密您的钱包吗？</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MUE&lt;/b&gt;!</source>
-        <translation>注意：请妥善保管好你的密码，因为在加密后，没有密码将无法打开钱包。这将会让您&lt;b&gt;损失钱包中所有的MUE&lt;/b&gt;！</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BOLD&lt;/b&gt;!</source>
+        <translation>注意：请妥善保管好你的密码，因为在加密后，没有密码将无法打开钱包。这将会让您&lt;b&gt;损失钱包中所有的BOLD&lt;/b&gt;！</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -239,16 +239,16 @@
         <translation>&amp;BIP 38 加密</translation>
     </message>
     <message>
-        <source>Enter a MonetaryUnit Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>输入您要使用BIP 38加密的MonetaryUnit地址。在中间框中输入密码。按加密计算加密私钥。</translation>
+        <source>Enter a Bold Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>输入您要使用BIP 38加密的Bold地址。在中间框中输入密码。按加密计算加密私钥。</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>地址：</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address to sign the message with</source>
-        <translation>该MonetaryUnit地址签名的消息</translation>
+        <source>The Bold address to sign the message with</source>
+        <translation>该Bold地址签名的消息</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>将当前签名复制到系统剪贴板</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this MonetaryUnit address</source>
-        <translation>签署消息以证明您拥有此MonetaryUnit地址</translation>
+        <source>Sign the message to prove you own this Bold address</source>
+        <translation>签署消息以证明您拥有此Bold地址</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>输入BIP 38加密私钥。 在中间框中输入密码。 单击解密密钥计算私钥。 密钥解密后，单击“导入地址”将将该私钥添加到钱包中。</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address the message was signed with</source>
-        <translation>由MonetaryUnit地址签名的消息</translation>
+        <source>The Bold address the message was signed with</source>
+        <translation>由Bold地址签名的消息</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified MonetaryUnit address</source>
-        <translation>验证消息确保它已使用指定的MonetaryUnit地址进行签名</translation>
+        <source>Verify the message to ensure it was signed with the specified Bold address</source>
+        <translation>验证消息确保它已使用指定的Bold地址进行签名</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -602,24 +602,24 @@
         <translation>标签工具栏</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Core</translation>
+        <source>Bold Core</source>
+        <translation>Bold Core</translation>
     </message>
     <message>
-        <source>Send coins to a MonetaryUnit address</source>
-        <translation>发送数字货币到MonetaryUnit地址</translation>
+        <source>Send coins to a Bold address</source>
+        <translation>发送数字货币到Bold地址</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and monetaryunit: URIs)</source>
-        <translation>请求支付（生成二维码和monetaryunit：URIs）</translation>
+        <source>Request payments (generates QR codes and bold: URIs)</source>
+        <translation>请求支付（生成二维码和bold：URIs）</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
         <translation>&amp;P隐私</translation>
     </message>
     <message>
-        <source>Privacy Action for zMUE and Obfuscation</source>
-        <translation>zMUE和混淆的隐私操作</translation>
+        <source>Privacy Action for zBOLD and Obfuscation</source>
+        <translation>zBOLD和混淆的隐私操作</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -630,24 +630,24 @@
         <translation>浏览主节点</translation>
     </message>
     <message>
-        <source>&amp;About MonetaryUnit Core</source>
-        <translation>&amp;A关于MonetaryUnit Core</translation>
+        <source>&amp;About Bold Core</source>
+        <translation>&amp;A关于Bold Core</translation>
     </message>
     <message>
-        <source>Show information about MonetaryUnit Core</source>
-        <translation>显示MonetaryUnit  Core的相关信息</translation>
+        <source>Show information about Bold Core</source>
+        <translation>显示Bold  Core的相关信息</translation>
     </message>
     <message>
-        <source>Modify configuration options for MonetaryUnit</source>
-        <translation>修改MonetaryUnit的配置选项</translation>
+        <source>Modify configuration options for Bold</source>
+        <translation>修改Bold的配置选项</translation>
     </message>
     <message>
-        <source>Sign messages with your MonetaryUnit addresses to prove you own them</source>
-        <translation>使用您的MonetaryUnit地址验证消息，以证明您拥有他们</translation>
+        <source>Sign messages with your Bold addresses to prove you own them</source>
+        <translation>使用您的Bold地址验证消息，以证明您拥有他们</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified MonetaryUnit addresses</source>
-        <translation>验证消息确保它已使用指定的MonetaryUnit地址进行签名</translation>
+        <source>Verify messages to ensure they were signed with specified Bold addresses</source>
+        <translation>验证消息确保它已使用指定的Bold地址进行签名</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -678,8 +678,8 @@
         <translation>打开主节点配置文件</translation>
     </message>
     <message>
-        <source>Open a MonetaryUnit: URI or payment request</source>
-        <translation>打开MonetaryUnit：URI或付款请求</translation>
+        <source>Open a Bold: URI or payment request</source>
+        <translation>打开Bold：URI或付款请求</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -690,16 +690,16 @@
         <translation>区块浏览窗口</translation>
     </message>
     <message>
-        <source>Show the MonetaryUnit Core help message to get a list with possible MonetaryUnit command-line options</source>
-        <translation>显示MonetaryUnit Core帮助信息并获取MonetaryUnit命令行选项列表</translation>
+        <source>Show the Bold Core help message to get a list with possible Bold command-line options</source>
+        <translation>显示Bold Core帮助信息并获取Bold命令行选项列表</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core client</source>
-        <translation>MonetaryUnit Core 客户端</translation>
+        <source>Bold Core client</source>
+        <translation>Bold Core 客户端</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to MonetaryUnit network</source>
-        <translation><numerusform>%n 活动连接到MonetaryUnit网络
+        <source>%n active connection(s) to Bold network</source>
+        <translation><numerusform>%n 活动连接到Bold网络
 </numerusform></translation>
     </message>
     <message>
@@ -865,31 +865,31 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Core</translation>
+        <source>Bold Core</source>
+        <translation>Bold Core</translation>
     </message>
     <message>
-        <source>About MonetaryUnit Core</source>
-        <translation>关于MonetaryUnit Core</translation>
+        <source>About Bold Core</source>
+        <translation>关于Bold Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Welcome to MonetaryUnit Core.</source>
-        <translation>欢迎使用 MonetaryUnit Core</translation>
+        <source>Welcome to Bold Core.</source>
+        <translation>欢迎使用 Bold Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where MonetaryUnit Core will store its data.</source>
-        <translation>由于这是该程序第一次启动，您可以选择存储MonetaryUnit Core 数据的位置。</translation>
+        <source>As this is the first time the program is launched, you can choose where Bold Core will store its data.</source>
+        <translation>由于这是该程序第一次启动，您可以选择存储Bold Core 数据的位置。</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core will download and store a copy of the MonetaryUnit block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>MonetaryUnit Core将下载并存储MonetaryUnit区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
+        <source>Bold Core will download and store a copy of the Bold block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Bold Core将下载并存储Bold区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Core</translation>
+        <source>Bold Core</source>
+        <translation>Bold Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -971,16 +971,16 @@ Address: %4
         <translation>如果您要禁用未经确认发送，在至少有一个确认之前&lt;br/&gt;不能更改。&lt;br/&gt;这也将影响您的余额计算。</translation>
     </message>
     <message>
-        <source>Automatically open the MonetaryUnit client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自动打开路由器上的MonetaryUnit钱包使用的端口。 这只有当您的路由器支持UPnP并且该享生效时才有用。</translation>
+        <source>Automatically open the Bold client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>自动打开路由器上的Bold钱包使用的端口。 这只有当您的路由器支持UPnP并且该享生效时才有用。</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
         <translation>&amp;使用SOCKS5代理（默认代理）</translation>
     </message>
     <message>
-        <source>&amp;Start MonetaryUnit on system login</source>
-        <translation>&amp;开机启动MonetaryUnit</translation>
+        <source>&amp;Start Bold on system login</source>
+        <translation>&amp;开机启动Bold</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -1040,7 +1040,7 @@ Address: %4
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>选择显示发送MonetaryUnit的默认单位。</translation>
+        <translation>选择显示发送Bold的默认单位。</translation>
     </message>
     <message>
         <source>Decimal digits</source>
@@ -1118,8 +1118,8 @@ Address: %4
         <translation>您目前的支出余额</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the MonetaryUnit network after a connection is established, but this process has not completed yet.</source>
-        <translation>显示的信息可能已过期。建立连接后，您的钱包会自动与MonetaryUnit网络同步，但此过程尚未完成。</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bold network after a connection is established, but this process has not completed yet.</source>
+        <translation>显示的信息可能已过期。建立连接后，您的钱包会自动与Bold网络同步，但此过程尚未完成。</translation>
     </message>
     <message>
         <source>Your current total balance</source>
@@ -1139,8 +1139,8 @@ Address: %4
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the MonetaryUnit network after a connection is established, but this process has not completed yet.</source>
-        <translation>显示的信息可能已过期。建立连接后，您的钱包会自动与MonetaryUnit网络同步，但此过程尚未完成。</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bold network after a connection is established, but this process has not completed yet.</source>
+        <translation>显示的信息可能已过期。建立连接后，您的钱包会自动与Bold网络同步，但此过程尚未完成。</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
@@ -1227,12 +1227,12 @@ Address: %4
         <translation>&amp;消息：</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the MonetaryUnit network.</source>
-        <translation>附加到付款请求的可选消息，将在请求打开时显示。 注意：消息不会在付款时通过MonetaryUnit网络发送。</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bold network.</source>
+        <translation>附加到付款请求的可选消息，将在请求打开时显示。 注意：消息不会在付款时通过Bold网络发送。</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the MonetaryUnit network.</source>
-        <translation>附加到付款请求的可选消息，将在请求打开时显示。&lt;br&gt; 注意：消息不会在付款时通过MonetaryUnit网络发送。</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Bold network.</source>
+        <translation>附加到付款请求的可选消息，将在请求打开时显示。&lt;br&gt; 注意：消息不会在付款时通过Bold网络发送。</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -1367,8 +1367,8 @@ Address: %4
         <translation>消息:</translation>
     </message>
     <message>
-        <source>A message that was attached to the MonetaryUnit: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the MonetaryUnit network.</source>
-        <translation>附加到MonetaryUnit：URI的消息，该消息将与转账信息一起存储以供参考。 注意：此消息不会通过MonetaryUnit网络发送。</translation>
+        <source>A message that was attached to the Bold: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bold network.</source>
+        <translation>附加到Bold：URI的消息，该消息将与转账信息一起存储以供参考。 注意：此消息不会通过Bold网络发送。</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
@@ -1393,8 +1393,8 @@ Address: %4
         <translation>您可以使用地址签名消息，以证明您拥有他们。 小心不要签名任何您不了解的，因为网络钓鱼攻击可能会试图欺骗您，以让您签名。 只能签署您熟悉并且了解和同意的。</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address to sign the message with</source>
-        <translation>该MonetaryUnit地址签名的消息</translation>
+        <source>The Bold address to sign the message with</source>
+        <translation>该Bold地址签名的消息</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1421,16 +1421,16 @@ Address: %4
         <translation>将当前签名复制到系统剪贴板</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this MonetaryUnit address</source>
-        <translation>签署消息以证明您拥有此MonetaryUnit地址</translation>
+        <source>Sign the message to prove you own this Bold address</source>
+        <translation>签署消息以证明您拥有此Bold地址</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address the message was signed with</source>
-        <translation>由MonetaryUnit地址签名的消息</translation>
+        <source>The Bold address the message was signed with</source>
+        <translation>由Bold地址签名的消息</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified MonetaryUnit address</source>
-        <translation>验证消息确保它已使用指定的MonetaryUnit地址进行签名</translation>
+        <source>Verify the message to ensure it was signed with the specified Bold address</source>
+        <translation>验证消息确保它已使用指定的Bold地址进行签名</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1508,8 +1508,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Core</translation>
+        <source>Bold Core</source>
+        <translation>Bold Core</translation>
     </message>
     </context>
 <context>
@@ -1591,14 +1591,14 @@ Address: %4
     <name>ZPhrControlDialog</name>
     </context>
 <context>
-    <name>monetaryunit-core</name>
+    <name>bold-core</name>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
         <translation>在收到相关警报时执行命令，或者看到一个很长的分叉（cmd中的%s被消息替换）</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong MonetaryUnit Core will not work properly.</source>
-        <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，MonetaryUnit Core将无法正常工作。</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bold Core will not work properly.</source>
+        <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，Bold Core将无法正常工作。</translation>
     </message>
     <message>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>

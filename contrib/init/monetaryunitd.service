@@ -1,19 +1,19 @@
 [Unit]
-Description=MonetaryUnit's distributed currency daemon
+Description=Bold's distributed currency daemon
 After=network.target
 
 [Service]
-User=monetaryunit
-Group=monetaryunit
+User=bold
+Group=bold
 
 Type=forking
-PIDFile=/var/lib/monetaryunitd/monetaryunitd.pid
+PIDFile=/var/lib/boldd/boldd.pid
 
-ExecStart=/usr/bin/monetaryunitd -daemon -pid=/var/lib/monetaryunitd/monetaryunitd.pid \
-          -conf=/etc/monetaryunit/monetaryunit.conf -datadir=/var/lib/monetaryunitd
+ExecStart=/usr/bin/boldd -daemon -pid=/var/lib/boldd/boldd.pid \
+          -conf=/etc/bold/bold.conf -datadir=/var/lib/boldd
 
-ExecStop=-/usr/bin/monetaryunit-cli -conf=/etc/monetaryunit/monetaryunit.conf \
-         -datadir=/var/lib/monetaryunitd stop
+ExecStop=-/usr/bin/bold-cli -conf=/etc/bold/bold.conf \
+         -datadir=/var/lib/boldd stop
 
 Restart=always
 PrivateTmp=true

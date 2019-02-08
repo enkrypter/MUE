@@ -1,2 +1,2 @@
-usr/local/bin/monetaryunitd usr/bin
-usr/local/bin/monetaryunit-cli usr/bin
+usr/local/bin/boldd usr/bin
+usr/local/bin/bold-cli usr/bin

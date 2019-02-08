@@ -62,12 +62,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your MonetaryUnit addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones MonetaryUnit para realizar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviar monedas.</translation>
+        <source>These are your Bold addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones Bold para realizar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviar monedas.</translation>
     </message>
     <message>
-        <source>These are your MonetaryUnit addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones MonetaryUnit para recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
+        <source>These are your Bold addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son sus direcciones Bold para recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Confirme el cifrado del monedero</translation>
     </message>
     <message>
-        <source>MonetaryUnit will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your MUEs from being stolen by malware infecting your computer.</source>
-        <translation>MonetaryUnit se cerrará para finalizar el proceso de cifrado. Recuerde que cifrar su monedero no garantiza que sus MUEs no sean robados mediante malware de su ordenador.</translation>
+        <source>Bold will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BOLDs from being stolen by malware infecting your computer.</source>
+        <translation>Bold se cerrará para finalizar el proceso de cifrado. Recuerde que cifrar su monedero no garantiza que sus BOLDs no sean robados mediante malware de su ordenador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>¿Está seguro de que desea cifrar su monedero?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MUE&lt;/b&gt;!</source>
-        <translation>Atención: Si cifra su monedero y pierde su contraseña, perderá &lt;b&gt; TODOS SUS MUE&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BOLD&lt;/b&gt;!</source>
+        <translation>Atención: Si cifra su monedero y pierde su contraseña, perderá &lt;b&gt; TODOS SUS BOLD&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -239,16 +239,16 @@
         <translation>&amp;Cifrado BIP 38</translation>
     </message>
     <message>
-        <source>Enter a MonetaryUnit Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Introduzca la dirección MonetaryUnit que querría cifrar usando BIP 38. Introduzca una contraseña en el campo central. Haga clic en cifrar para generar la clave privada cifrada.</translation>
+        <source>Enter a Bold Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Introduzca la dirección Bold que querría cifrar usando BIP 38. Introduzca una contraseña en el campo central. Haga clic en cifrar para generar la clave privada cifrada.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Dirección:</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address to sign the message with</source>
-        <translation>La dirección MonetaryUnit con la que desee firmar el mensaje</translation>
+        <source>The Bold address to sign the message with</source>
+        <translation>La dirección Bold con la que desee firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this MonetaryUnit address</source>
-        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección MonetaryUnit</translation>
+        <source>Sign the message to prove you own this Bold address</source>
+        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección Bold</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Introduzca la clave cifrada privada BIP 38. Introduzca la contraseña en el campo central. Haga clic en descifrar clave para generar la clave privada. Después de que la clave sea descifrada, pulsando en 'Importar dirección' añadirá esta clave privada al monedero.</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address the message was signed with</source>
-        <translation>La dirección MonetaryUnit con la que se firmó el mensaje</translation>
+        <source>The Bold address the message was signed with</source>
+        <translation>La dirección Bold con la que se firmó el mensaje</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified MonetaryUnit address</source>
-        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección MonetaryUnit especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified Bold address</source>
+        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección Bold especificada</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -602,15 +602,15 @@
         <translation>Herramienta de pestañas</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>Núcleo MonetaryUnit</translation>
+        <source>Bold Core</source>
+        <translation>Núcleo Bold</translation>
     </message>
     <message>
-        <source>Send coins to a MonetaryUnit address</source>
-        <translation>Enviar coins a una dirección MonetaryUnit</translation>
+        <source>Send coins to a Bold address</source>
+        <translation>Enviar coins a una dirección Bold</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and monetaryunit: URIs)</source>
+        <source>Request payments (generates QR codes and bold: URIs)</source>
         <translation>Solicitud de pago (genera un código QR y URIs)</translation>
     </message>
     <message>
@@ -618,8 +618,8 @@
         <translation>&amp;Privacidad</translation>
     </message>
     <message>
-        <source>Privacy Action for zMUE and Obfuscation</source>
-        <translation>Privacidad con zMUE y Ofuscación</translation>
+        <source>Privacy Action for zBOLD and Obfuscation</source>
+        <translation>Privacidad con zBOLD y Ofuscación</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -630,24 +630,24 @@
         <translation>Explorar nodos maestros</translation>
     </message>
     <message>
-        <source>&amp;About MonetaryUnit Core</source>
-        <translation>&amp;Sobre el núcleo de MonetaryUnit</translation>
+        <source>&amp;About Bold Core</source>
+        <translation>&amp;Sobre el núcleo de Bold</translation>
     </message>
     <message>
-        <source>Show information about MonetaryUnit Core</source>
-        <translation>Mostrar información sobre el núcleo de MonetaryUnit</translation>
+        <source>Show information about Bold Core</source>
+        <translation>Mostrar información sobre el núcleo de Bold</translation>
     </message>
     <message>
-        <source>Modify configuration options for MonetaryUnit</source>
-        <translation>Modificar las opciones de configuración de MonetaryUnit</translation>
+        <source>Modify configuration options for Bold</source>
+        <translation>Modificar las opciones de configuración de Bold</translation>
     </message>
     <message>
-        <source>Sign messages with your MonetaryUnit addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones MonetaryUnit para demostrar que le pertenecen</translation>
+        <source>Sign messages with your Bold addresses to prove you own them</source>
+        <translation>Firmar mensajes con sus direcciones Bold para demostrar que le pertenecen</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified MonetaryUnit addresses</source>
-        <translation>Verificar mensajes para asegurar que están firmados con la dirección MonetaryUnit especificada</translation>
+        <source>Verify messages to ensure they were signed with specified Bold addresses</source>
+        <translation>Verificar mensajes para asegurar que están firmados con la dirección Bold especificada</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -678,8 +678,8 @@
         <translation>Abrir Fichero de Configuración de Nodos Maestros</translation>
     </message>
     <message>
-        <source>Open a MonetaryUnit: URI or payment request</source>
-        <translation>Abrir un MonetaryUnit: URI o solicitud de pago</translation>
+        <source>Open a Bold: URI or payment request</source>
+        <translation>Abrir un Bold: URI o solicitud de pago</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -690,16 +690,16 @@
         <translation>Ventana del explorador de bloques</translation>
     </message>
     <message>
-        <source>Show the MonetaryUnit Core help message to get a list with possible MonetaryUnit command-line options</source>
-        <translation>Mostrar la ayuda de MonetaryUnit Core para obtener una lista de posibles opciones en línea de comandos</translation>
+        <source>Show the Bold Core help message to get a list with possible Bold command-line options</source>
+        <translation>Mostrar la ayuda de Bold Core para obtener una lista de posibles opciones en línea de comandos</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core client</source>
-        <translation>Cliente MonetaryUnit Core</translation>
+        <source>Bold Core client</source>
+        <translation>Cliente Bold Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to MonetaryUnit network</source>
-        <translation><numerusform>%n conexión(es) activa a la red MonetaryUnit</numerusform><numerusform>%n conexion(es) activas a la red MonetaryUnit</numerusform></translation>
+        <source>%n active connection(s) to Bold network</source>
+        <translation><numerusform>%n conexión(es) activa a la red Bold</numerusform><numerusform>%n conexion(es) activas a la red Bold</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -853,8 +853,8 @@ MultiEnvío: %1</translation>
         <translation>EtiquetaDeTexto</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (monetaryunit.conf).</source>
-        <translation>No se muestran todas las transacciones. Para ver todas las transacciones introduzca la línea "txindex=1" en el archivo de configuración (monetaryunit.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (bold.conf).</source>
+        <translation>No se boldstran todas las transacciones. Para ver todas las transacciones introduzca la línea "txindex=1" en el archivo de configuración (bold.conf).</translation>
     </message>
 </context>
 <context>
@@ -1142,8 +1142,8 @@ MultiEnvío: %1</translation>
         <translation>Editar dirección de envío</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid MonetaryUnit address.</source>
-        <translation>La dirección introducida "%1" no es una dirección MonetaryUnit válida.</translation>
+        <source>The entered address "%1" is not a valid Bold address.</source>
+        <translation>La dirección introducida "%1" no es una dirección Bold válida.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1188,16 +1188,16 @@ MultiEnvío: %1</translation>
         <translation>versión</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>Núcleo MonetaryUnit</translation>
+        <source>Bold Core</source>
+        <translation>Núcleo Bold</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About MonetaryUnit Core</source>
-        <translation>Acerca de MonetaryUnit Core</translation>
+        <source>About Bold Core</source>
+        <translation>Acerca de Bold Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1243,16 +1243,16 @@ MultiEnvío: %1</translation>
         <translation>Bienvenido/a</translation>
     </message>
     <message>
-        <source>Welcome to MonetaryUnit Core.</source>
-        <translation>Bienvenido/a a MonetaryUnit Core.</translation>
+        <source>Welcome to Bold Core.</source>
+        <translation>Bienvenido/a a Bold Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where MonetaryUnit Core will store its data.</source>
-        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará MonetaryUnit Core sus datos.</translation>
+        <source>As this is the first time the program is launched, you can choose where Bold Core will store its data.</source>
+        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará Bold Core sus datos.</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core will download and store a copy of the MonetaryUnit block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>MonetaryUnit Core descargará y guardará una copia de la cadena de bloques MonetaryUnit. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
+        <source>Bold Core will download and store a copy of the Bold block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Bold Core descargará y guardará una copia de la cadena de bloques Bold. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1263,8 +1263,8 @@ MultiEnvío: %1</translation>
         <translation>Usar una carpeta de datos personalizada:</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>Núcleo MonetaryUnit</translation>
+        <source>Bold Core</source>
+        <translation>Núcleo Bold</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1405,12 +1405,12 @@ MultiEnvío: %1</translation>
         <translation>Introduzca Dirección a la cual Enviar</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other MonetaryUnit addresses after it matures.
-To Add: enter percentage to give and MonetaryUnit address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bold addresses after it matures.
+To Add: enter percentage to give and Bold address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiEnvío le permite enviar automáticamente hasta el 100% de recompensa de participación o de nodo maestro a una lista de otras direcciones MonetaryUnit después de su maduración.
-Para Añadir: introduzca porcentaje a enviar y las direcciones MonetaryUnit a añadir al vector MultiEnvío.
+        <translation>MultiEnvío le permite enviar automáticamente hasta el 100% de recompensa de participación o de nodo maestro a una lista de otras direcciones Bold después de su maduración.
+Para Añadir: introduzca porcentaje a enviar y las direcciones Bold a añadir al vector MultiEnvío.
 Para Eliminar: Introduzca la dirección a eliminar y pulse la tecla delete.
 MultiEnvío no se activará a menos que haga usted click en Activar</translation>
     </message>
@@ -1548,48 +1548,48 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Por favor selecciones un nivel de privacidad.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 MUE</source>
-        <translation>Use 2 nodos maestros diferentes para mezclar los fondos hasta los 10000 MUE</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 BOLD</source>
+        <translation>Use 2 nodos maestros diferentes para mezclar los fondos hasta los 10000 BOLD</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 MUE</source>
-        <translation>Use 8 nodos maestros diferentes para mezclar fondos hasta los 10000 MUE</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 BOLD</source>
+        <translation>Use 8 nodos maestros diferentes para mezclar fondos hasta los 10000 BOLD</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Use 16 nodos maestros diferentes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 MUE to anonymize 10000 MUE</source>
-        <translation>Esta opción es la más rápida y costará alrededor de ~0.025 MUE para anonimizar 10000 MUE</translation>
+        <source>This option is the quickest and will cost about ~0.025 BOLD to anonymize 10000 BOLD</source>
+        <translation>Esta opción es la más rápida y costará alrededor de ~0.025 BOLD para anonimizar 10000 BOLD</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 MUE to anonymize 10000 MUE</source>
-        <translation>Esta opción es moderadamente rápida y costará cerca de 0.05 MUE para anonimizar 10000 MUE.</translation>
+        <source>This option is moderately fast and will cost about 0.05 BOLD to anonymize 10000 BOLD</source>
+        <translation>Esta opción es moderadamente rápida y costará cerca de 0.05 BOLD para anonimizar 10000 BOLD.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Esta es la opción más lenta pero más segura. Usar el máximo anonimato costará</translation>
     </message>
     <message>
-        <source>0.1 MUE per 10000 MUE you anonymize.</source>
-        <translation>0.1 MUE por 10000 MUE que anonimizas.</translation>
+        <source>0.1 BOLD per 10000 BOLD you anonymize.</source>
+        <translation>0.1 BOLD por 10000 BOLD que anonimizas.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Configuración de Ofuscación</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening MonetaryUnit's configuration screen.</source>
-        <translation>La Ofuscación se configuró correctamente en modo básico (%1 y 2 rondas). Puedes cambiar esto en cualquier momento accediendo a la ventana de configuración de MonetaryUnit.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Bold's configuration screen.</source>
+        <translation>La Ofuscación se configuró correctamente en modo básico (%1 y 2 rondas). Puedes cambiar esto en cualquier momento accediendo a la ventana de configuración de Bold.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening MonetaryUnit's configuration screen.</source>
-        <translation>La Ofuscación se activó correctamente en modo alto (%1 y 8 rondas). Usted puede cambiar esto en cualquier momento abriendo la ventana de configuración de MonetaryUnit.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Bold's configuration screen.</source>
+        <translation>La Ofuscación se activó correctamente en modo alto (%1 y 8 rondas). Usted puede cambiar esto en cualquier momento abriendo la ventana de configuración de Bold.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening MonetaryUnit's configuration screen.</source>
-        <translation>La Ofuscación se activó correctamente en su grado máximo (%1 y 16 rondas). Usted puede cambiar ésto en cualquier momento en la ventana de configuración de MonetaryUnit.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Bold's configuration screen.</source>
+        <translation>La Ofuscación se activó correctamente en su grado máximo (%1 y 16 rondas). Usted puede cambiar ésto en cualquier momento en la ventana de configuración de Bold.</translation>
     </message>
 </context>
 <context>
@@ -1650,8 +1650,8 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Si deselecciona el gasto de cambio no confirmado, las entradas de una transacción&lt;br/&gt;no podrán ser usadas hasta que esa transacción tenga al menos una confirmación.&lt;br/&gt;Esto también afecta a cómo se calcula su balance actual.</translation>
     </message>
     <message>
-        <source>Automatically open the MonetaryUnit client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente MonetaryUnit en el enrutador. Ésto sólo funciona si su enrutador soporta UPnP y esta función está activada.</translation>
+        <source>Automatically open the Bold client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto del cliente Bold en el enrutador. Ésto sólo funciona si su enrutador soporta UPnP y esta función está activada.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1670,12 +1670,12 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Experto</translation>
     </message>
     <message>
-        <source>Automatically start MonetaryUnit after logging in to the system.</source>
-        <translation>Arrancar MonetaryUnit automáticamente después de identificarse en Windows.</translation>
+        <source>Automatically start Bold after logging in to the system.</source>
+        <translation>Arrancar Bold automáticamente después de identificarse en Windows.</translation>
     </message>
     <message>
-        <source>&amp;Start MonetaryUnit on system login</source>
-        <translation>&amp;Arrancar MonetaryUnit al inicio del sistema</translation>
+        <source>&amp;Start Bold on system login</source>
+        <translation>&amp;Arrancar Bold al inicio del sistema</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1702,38 +1702,38 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>&amp;Red</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting MonetaryUnit.</source>
-        <translation>El idioma de interface de usuario puede seleccionarse aquí. Este ajuste tomará efecto después de reiniciar MonetaryUnit.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bold.</source>
+        <translation>El idioma de interface de usuario puede seleccionarse aquí. Este ajuste tomará efecto después de reiniciar Bold.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations</source>
+https://www.transifex.com/bold-project/bold-project-translations</source>
         <translation>¿Falta su lenguaje o la traducción está incompleta? Contribuya con las traducciones aquí:
-https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations</translation>
+https://www.transifex.com/bold-project/bold-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Mapear un puerto utilizando &amp;UPnP</translation>
     </message>
     <message>
-        <source>Percentage of incoming MUE which get automatically converted to zMUE via Zerocoin Protocol (min: 10%)</source>
-        <translation>Porcentaje de MUEs entrantes que serán automáticamente convertidos a zMUE a través del Protocolo Zerocoin (mín: 10%)</translation>
+        <source>Percentage of incoming BOLD which get automatically converted to zBOLD via Zerocoin Protocol (min: 10%)</source>
+        <translation>Porcentaje de BOLDs entrantes que serán automáticamente convertidos a zBOLD a través del Protocolo Zerocoin (mín: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zMUE</source>
-        <translation>Porcentaje de zMUE autogenerados</translation>
+        <source>Percentage of autominted zBOLD</source>
+        <translation>Porcentaje de zBOLD autogenerados</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough MUE for this denomination is available</source>
-        <translation>Retrasar la conversión automática a Zerocoin hasta que hayan suficientes MUE disponibles para este tamaño de billete</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough BOLD for this denomination is available</source>
+        <translation>Retrasar la conversión automática a Zerocoin hasta que hayan suficientes BOLD disponibles para este tamaño de billete</translation>
     </message>
     <message>
-        <source>Preferred Automint zMUE Denomination</source>
-        <translation>Tamaño de billete zMUE preferido en la creación automática de dinero</translation>
+        <source>Preferred Automint zBOLD Denomination</source>
+        <translation>Tamaño de billete zBOLD preferido en la creación automática de dinero</translation>
     </message>
     <message>
-        <source>Connect to the MonetaryUnit network through a SOCKS5 proxy.</source>
-        <translation>Conectar a la red MonetaryUnit mediante un proxy SOCKS5.</translation>
+        <source>Connect to the Bold network through a SOCKS5 proxy.</source>
+        <translation>Conectar a la red Bold mediante un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1863,8 +1863,8 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
         <translation>Formulario</translation>
     </message>
     <message>
-        <source>MUE Balances</source>
-        <translation>Balances MUE</translation>
+        <source>BOLD Balances</source>
+        <translation>Balances BOLD</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1891,8 +1891,8 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
         <translation>Recompensa de participación o de nodo maestro que aún no ha madurado</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the MonetaryUnit network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red MonetaryUnit después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bold network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Bold después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1931,12 +1931,12 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
         <translation>Balances Combinados (incluyendo monedas inmaduras)</translation>
     </message>
     <message>
-        <source>MUE:</source>
-        <translation>MUE:</translation>
+        <source>BOLD:</source>
+        <translation>BOLD:</translation>
     </message>
     <message>
-        <source>zMUE:</source>
-        <translation>zMUE:</translation>
+        <source>zBOLD:</source>
+        <translation>zBOLD:</translation>
     </message>
     <message>
         <source>0 %</source>
@@ -1978,12 +1978,12 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
         <translation>Dirección de pago inválida %1</translation>
     </message>
     <message>
-        <source>Cannot start monetaryunit: click-to-pay handler</source>
-        <translation>No se puede iniciar monetaryunit: módulo click-to-pay</translation>
+        <source>Cannot start bold: click-to-pay handler</source>
+        <translation>No se puede iniciar bold: módulo click-to-pay</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid MonetaryUnit address or malformed URI parameters.</source>
-        <translation>¡El identificador de la dirección no puede ser analizado! Esto puede ser causado por una dirección MonetaryUnit inválida o parámetros del identificador malformados.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Bold address or malformed URI parameters.</source>
+        <translation>¡El identificador de la dirección no puede ser analizado! Esto puede ser causado por una dirección Bold inválida o parámetros del identificador malformados.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2064,20 +2064,20 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>MUE which were anonymized via Zerocin Protocol</source>
-        <translation>MUE que fueron anonimizados mediante Protocolo Zerocoin</translation>
+        <source>BOLD which were anonymized via Zerocin Protocol</source>
+        <translation>BOLD que fueron anonimizados mediante Protocolo Zerocoin</translation>
     </message>
     <message>
-        <source>Zerocoin MUE (zMUE)</source>
-        <translation>Zerocoin MUE (zMUE)</translation>
+        <source>Zerocoin BOLD (zBOLD)</source>
+        <translation>Zerocoin BOLD (zBOLD)</translation>
     </message>
     <message>
         <source>Zerocoin Actions:</source>
         <translation>Acciones Zerocoin:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the MonetaryUnit network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red MonetaryUnit después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bold network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Bold después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <source>Enter an amount of Phr to convert to zPhr</source>
@@ -2092,16 +2092,16 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
         <translation>0</translation>
     </message>
     <message>
-        <source>zMUE</source>
-        <translation>zMUE</translation>
+        <source>zBOLD</source>
+        <translation>zBOLD</translation>
     </message>
     <message>
         <source>Available for Minting:</source>
         <translation>Disponible para Creación de moneda:</translation>
     </message>
     <message>
-        <source>0.000 000 00 MUE</source>
-        <translation>0.000 000 00 MUE</translation>
+        <source>0.000 000 00 BOLD</source>
+        <translation>0.000 000 00 BOLD</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2160,8 +2160,8 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
         <translation>Balance disponible:</translation>
     </message>
     <message>
-        <source>0 zMUE</source>
-        <translation>0 zMUE</translation>
+        <source>0 zBOLD</source>
+        <translation>0 zBOLD</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2180,8 +2180,8 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
         <translation>Pagar &amp;A:</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>La dirección MonetaryUnit a la que enviar el pago. Si se deja en blanco, crea un pago a usted mismo.</translation>
+        <source>The Bold address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>La dirección Bold a la que enviar el pago. Si se deja en blanco, crea un pago a usted mismo.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2380,8 +2380,8 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
         <translation>Copiar cantidad</translation>
     </message>
     <message>
-        <source>Zerocoin functionality is not enabled on the MonetaryUnit network yet.</source>
-        <translation>La funcionalidad Zerocoin todavía no está habilitada en la red MonetaryUnit.</translation>
+        <source>Zerocoin functionality is not enabled on the Bold network yet.</source>
+        <translation>La funcionalidad Zerocoin todavía no está habilitada en la red Bold.</translation>
     </message>
     <message>
         <source>Error: Your wallet is locked. Please enter the wallet passphrase first.</source>
@@ -2400,8 +2400,8 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
         <translation>Monedas creadas correctamente</translation>
     </message>
     <message>
-        <source> zMUE in </source>
-        <translation>zMUE en</translation>
+        <source> zBOLD in </source>
+        <translation>zBOLD en</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2434,8 +2434,8 @@ Por favor espere...</translation>
         <translation>No se especificó drección 'Pagar A', por lo que asumimos un pago local</translation>
     </message>
     <message>
-        <source>Invalid MonetaryUnit Address</source>
-        <translation>Dirección MonetaryUnit Inválida</translation>
+        <source>Invalid Bold Address</source>
+        <translation>Dirección Bold Inválida</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2525,8 +2525,8 @@ Por favor tenga paciencia...</translation>
         <translation>Cantidad</translation>
     </message>
     <message>
-        <source>Enter a MonetaryUnit address (e.g. %1)</source>
-        <translation>Introduzca una dirección MonetaryUnit (p.e. %1)</translation>
+        <source>Enter a Bold address (e.g. %1)</source>
+        <translation>Introduzca una dirección Bold (p.e. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2663,8 +2663,8 @@ Por favor tenga paciencia...</translation>
         <translation>Cadena de bloques</translation>
     </message>
     <message>
-        <source>Open the MonetaryUnit debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abrir el fichero de depuración MonetaryUnit en el directorio actual de datos. Esto puede llevar unos segundos para ficheros de depuración grandes.</translation>
+        <source>Open the Bold debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abrir el fichero de depuración Bold en el directorio actual de datos. Esto puede llevar unos segundos para ficheros de depuración grandes.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -2831,8 +2831,8 @@ Por favor tenga paciencia...</translation>
         <translation>Fuera:</translation>
     </message>
     <message>
-        <source>Welcome to the MonetaryUnit RPC console.</source>
-        <translation>Bienvenido a la consola RPC de MonetaryUnit.</translation>
+        <source>Welcome to the Bold RPC console.</source>
+        <translation>Bienvenido a la consola RPC de Bold.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2902,12 +2902,12 @@ Por favor tenga paciencia...</translation>
         <translation>Una etiqueta opcional a asociar con la nueva dirección de recepción.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the MonetaryUnit network.</source>
-        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. Nota: El mensaje no se envía junto al pago por la red MonetaryUnit.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bold network.</source>
+        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. Nota: El mensaje no se envía junto al pago por la red Bold.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the MonetaryUnit network.</source>
-        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. &lt;br&gt;Nota: El mensaje no se envía junto al pago por la red MonetaryUnit.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Bold network.</source>
+        <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. &lt;br&gt;Nota: El mensaje no se envía junto al pago por la red Bold.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3131,8 +3131,8 @@ Por favor tenga paciencia...</translation>
         <translation>Tamaño de UTXO:</translation>
     </message>
     <message>
-        <source>0 MUE</source>
-        <translation>0 MUE</translation>
+        <source>0 BOLD</source>
+        <translation>0 BOLD</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3183,16 +3183,16 @@ Por favor tenga paciencia...</translation>
         <translation>Monedas seleccionadas automáticamente</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uMUEs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uMUEs in fee,&lt;br /&gt;while "at least" pays 1000 uMUEs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Si la comisión personalizada se fija en 1000 uMUEs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uMUEs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uMUEs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBOLDs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBOLDs in fee,&lt;br /&gt;while "at least" pays 1000 uBOLDs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Si la comisión personalizada se fija en 1000 uBOLDs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uBOLDs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uBOLDs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uMUEs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uMUEs in fee,&lt;br /&gt;while "total at least" pays 1000 uMUEs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Si la comisión personalizada se fija en 1000 uMUEs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uMUEs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uMUEs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uBOLDs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBOLDs in fee,&lt;br /&gt;while "total at least" pays 1000 uBOLDs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Si la comisión personalizada se fija en 1000 uBOLDs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uBOLDs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uBOLDs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for MonetaryUnit transactions than the network can process.</source>
-        <translation>Pagar sólo la comisión mínima está bien mientras haya menos volumen de transacciones que espacio en los bloques.&lt;br/&gt;Pero tenga en cuenta que esto podría acabar en una transacción que nunca se confirme si hay más demanda de transacciones MonetaryUnit de las que la red puede procesar.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Bold transactions than the network can process.</source>
+        <translation>Pagar sólo la comisión mínima está bien mientras haya menos volumen de transacciones que espacio en los bloques.&lt;br/&gt;Pero tenga en cuenta que esto podría acabar en una transacción que nunca se confirme si hay más demanda de transacciones Bold de las que la red puede procesar.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3239,8 +3239,8 @@ Por favor tenga paciencia...</translation>
         <translation>Añadir Destinata&amp;rio</translation>
     </message>
     <message>
-        <source>Anonymized MUE</source>
-        <translation>MUE anonimizados</translation>
+        <source>Anonymized BOLD</source>
+        <translation>BOLD anonimizados</translation>
     </message>
     <message>
         <source>SwiftTX</source>
@@ -3299,8 +3299,8 @@ Por favor tenga paciencia...</translation>
         <translation>fondos anónimos</translation>
     </message>
     <message>
-        <source>Warning: Invalid MonetaryUnit address</source>
-        <translation>Advertencia: Direcciones MonetaryUnit inválidas</translation>
+        <source>Warning: Invalid Bold address</source>
+        <translation>Advertencia: Direcciones Bold inválidas</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -3406,8 +3406,8 @@ Por favor tenga paciencia...</translation>
         <translation>Pagar &amp;A:</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address to send the payment to</source>
-        <translation>La dirección MonetaryUnit a la cual enviar el pago</translation>
+        <source>The Bold address to send the payment to</source>
+        <translation>La dirección Bold a la cual enviar el pago</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3446,8 +3446,8 @@ Por favor tenga paciencia...</translation>
         <translation>Mensaje:</translation>
     </message>
     <message>
-        <source>A message that was attached to the MonetaryUnit: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the MonetaryUnit network.</source>
-        <translation>Un mensaje adjunto al MonetaryUnit: En recurso web especificado será guardado junto a la transacción para su referencia. Nota: Este mensaje no se enviará por la red MonetaryUnit.</translation>
+        <source>A message that was attached to the Bold: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bold network.</source>
+        <translation>Un mensaje adjunto al Bold: En recurso web especificado será guardado junto a la transacción para su referencia. Nota: Este mensaje no se enviará por la red Bold.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3473,8 +3473,8 @@ Por favor tenga paciencia...</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>MonetaryUnit Core is shutting down...</source>
-        <translation>El programa MonetaryUnit se está cerrando...</translation>
+        <source>Bold Core is shutting down...</source>
+        <translation>El programa Bold se está cerrando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3496,8 +3496,8 @@ Por favor tenga paciencia...</translation>
         <translation>Usted puede firmar mensajes con su dirección para probar que son auténticos. Tenga cuidado con firmar algo corto o vago como "hola", pues los ataques de phising pueden engañarle para que firme su identidad para ellos. Sólo firme textos detallados con los que esté de acuerdo.</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address to sign the message with</source>
-        <translation>La dirección MonetaryUnit con la que desee firmar el mensaje</translation>
+        <source>The Bold address to sign the message with</source>
+        <translation>La dirección Bold con la que desee firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3528,16 +3528,16 @@ Por favor tenga paciencia...</translation>
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this MonetaryUnit address</source>
-        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección MonetaryUnit</translation>
+        <source>Sign the message to prove you own this Bold address</source>
+        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección Bold</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address the message was signed with</source>
-        <translation>La dirección MonetaryUnit con la que se firmó el mensaje</translation>
+        <source>The Bold address the message was signed with</source>
+        <translation>La dirección Bold con la que se firmó el mensaje</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified MonetaryUnit address</source>
-        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección MonetaryUnit especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified Bold address</source>
+        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección Bold especificada</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3623,8 +3623,8 @@ Por favor tenga paciencia...</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>Núcleo MonetaryUnit</translation>
+        <source>Bold Core</source>
+        <translation>Núcleo Bold</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3639,8 +3639,8 @@ Por favor tenga paciencia...</translation>
         <translation>Los desarrolladores de Dash Core</translation>
     </message>
     <message>
-        <source>The MonetaryUnit Core developers</source>
-        <translation>Los desarrolladores de MonetaryUnit Core</translation>
+        <source>The Bold Core developers</source>
+        <translation>Los desarrolladores de Bold Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3849,7 +3849,7 @@ Por favor tenga paciencia...</translation>
     </message>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Este panel muestra una descripción detallada de la transacción</translation>
+        <translation>Este panel boldstra una descripción detallada de la transacción</translation>
     </message>
 </context>
 <context>
@@ -4231,8 +4231,8 @@ Por favor tenga paciencia...</translation>
         <translation>Enviar Monedas</translation>
     </message>
     <message>
-        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 MUE.</source>
-        <translation>SwiftTX no soporta el envío de importes tan altos todavía. Las transacciones están actualmente limitadas a %1 MUE.</translation>
+        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 BOLD.</source>
+        <translation>SwiftTX no soporta el envío de importes tan altos todavía. Las transacciones están actualmente limitadas a %1 BOLD.</translation>
     </message>
 </context>
 <context>
@@ -4302,7 +4302,7 @@ Por favor tenga paciencia...</translation>
     </message>
 </context>
 <context>
-    <name>monetaryunit-core</name>
+    <name>bold-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1= mantener los metadatos tx p.e. dueño de la cuenta e información de la solicitud de pago, 2 = ignorar metadatos tx)</translation>
@@ -4332,8 +4332,8 @@ Por favor tenga paciencia...</translation>
         <translation>El punto de chequeo del acumulador que hemos calculado no coincide con lo guardado en el índice de bloques</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. MonetaryUnit Core is probably already running.</source>
-        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. MonetaryUnit Core esta probablemente en ejecución.</translation>
+        <source>Cannot obtain a lock on data directory %s. Bold Core is probably already running.</source>
+        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. Bold Core esta probablemente en ejecución.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4352,8 +4352,8 @@ Por favor tenga paciencia...</translation>
         <translation>Borrar todas las transacciones del monedero y solo recuperar partes de la cadena de bloque a traves de -rescan al inicio.</translation>
     </message>
     <message>
-        <source>Disable all MonetaryUnit specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
-        <translation>Desabilitar toda la funcionalidad especifica MonetaryUnit (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, predeterminado: %u)</translation>
+        <source>Disable all Bold specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
+        <translation>Desabilitar toda la funcionalidad especifica Bold (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, predeterminado: %u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -4392,12 +4392,12 @@ Por favor tenga paciencia...</translation>
         <translation>Ejecutar comando cuando el mejor bloque cambie (%s en cmd es reemplazado por el block hash)</translation>
     </message>
     <message>
-        <source>Fees (in MUE/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Comisiones (en MUE/Kb) menores a esta son consideradas gratuitas para la propagación de la transacción (default: %s)</translation>
+        <source>Fees (in BOLD/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Comisiones (en BOLD/Kb) menores a esta son consideradas gratuitas para la propagación de la transacción (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in MUE/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Comisiones (en MUE/Kb) menores a esta son consideradas gratuitas para la creación de la transacción (default: %s)</translation>
+        <source>Fees (in BOLD/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Comisiones (en BOLD/Kb) menores a esta son consideradas gratuitas para la creación de la transacción (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -4496,44 +4496,44 @@ Por favor tenga paciencia...</translation>
         <translation>Este producto incluye software desarrollado por el Proyecto OpenSSL para uso en OpenSSL Toolkit &lt;https://www.openssl.org/&gt; y software de cifrado escrito por Eric Young y software de UPnP escrito por Thomas Bernard.</translation>
     </message>
     <message>
-        <source>To use monetaryunitd, or the -server option to monetaryunit-qt, you must set an rpcpassword in the configuration file:
+        <source>To use boldd, or the -server option to bold-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=monetaryunitrpc
+rpcuser=boldrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "MonetaryUnit Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Bold Alert" admin@foo.com
 </source>
-        <translation>Para usar monetaryunitd, o la opción -server de monetaryunit-qt, debes definir un rpcpassword en el archivo de configuración:
+        <translation>Para usar boldd, o la opción -server de bold-qt, debes definir un rpcpassword en el archivo de configuración:
 %s
 Es recomendado que uses la siguiente contraseña aleatoria:
-rpcuser=monetaryunit
+rpcuser=bold
 rpcrpcpassword=%s
 (No necesitas recordar esta contraseña)
 El nombre de usuario y contraseña NO DEBEN ser los mismos.
 Si el archivo no existe, crearlo con permisos de solo lectura para el propietario.
 También es recomendado definir alertnotify de manera que seas notificado de problemas;
-por ejemplo: alertnotify=echo %%s | mail -s "MonetaryUnit Alert" admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s "Bold Alert" admin@foo.com
 </translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. MonetaryUnit Core is probably already running.</source>
-        <translation>Imposible conectar a %s en esta computadora. Es probable que MonetaryUnit Core ya este corriendo.</translation>
+        <source>Unable to bind to %s on this computer. Bold Core is probably already running.</source>
+        <translation>Imposible conectar a %s en esta computadora. Es probable que Bold Core ya este corriendo.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Imposible localizar suficientes fondos denominados de Ofuscación para esta transacción.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 MUE.</source>
-        <translation>Imposible localizar suficientes fondos no-denominados de Ofuscación para esta transacción que no es igual a 10000 MUE.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 BOLD.</source>
+        <translation>Imposible localizar suficientes fondos no-denominados de Ofuscación para esta transacción que no es igual a 10000 BOLD.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 MUE.</source>
-        <translation>Imposible localizar fondos suficientes para esta transacción que no es igual a 10000 MUE.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 BOLD.</source>
+        <translation>Imposible localizar fondos suficientes para esta transacción que no es igual a 10000 BOLD.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4548,8 +4548,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "MonetaryUnit Alert" admin@foo.com
         <translation>Advertencia: -paytxfee esta muy alta! Esta es la comisión de transacción que pagarás si envías una transacción.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong MonetaryUnit Core will not work properly.</source>
-        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora MonetaryUnit Core no funcionará adecuadamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bold Core will not work properly.</source>
+        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora Bold Core no funcionará adecuadamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4580,8 +4580,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "MonetaryUnit Alert" admin@foo.com
         <translation>Debes especificar un masternodeprivkey en la configuración. Por favor mira la documentación por ayuda.</translation>
     </message>
     <message>
-        <source>(19687 could be used only on mainnet)</source>
-        <translation>(19687 puede ser utilizado solo en mainnet)</translation>
+        <source>(18200 could be used only on mainnet)</source>
+        <translation>(18200 puede ser utilizado solo en mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4592,8 +4592,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "MonetaryUnit Alert" admin@foo.com
         <translation>(predeterminado: 1)</translation>
     </message>
     <message>
-        <source>(must be 19687 for mainnet)</source>
-        <translation>(debe ser 19687 para un mainnet)</translation>
+        <source>(must be 18200 for mainnet)</source>
+        <translation>(debe ser 18200 para un mainnet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
@@ -4704,8 +4704,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "MonetaryUnit Alert" admin@foo.com
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The MonetaryUnit Core Developers</source>
-        <translation>Copyright (C) 2015-%i The MonetaryUnit Core Developers</translation>
+        <source>Copyright (C) 2015-%i The Bold Core Developers</source>
+        <translation>Copyright (C) 2015-%i The Bold Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4784,8 +4784,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "MonetaryUnit Alert" admin@foo.com
         <translation>Error al cargar wallet.dat: Billetera dañada</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of MonetaryUnit Core</source>
-        <translation>Error al cargar wallet.dat: La Billetera requiere una nueva versión del Núcleo MonetaryUnit</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bold Core</source>
+        <translation>Error al cargar wallet.dat: La Billetera requiere una nueva versión del Núcleo Bold</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4836,8 +4836,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "MonetaryUnit Alert" admin@foo.com
         <translation>Falló al leer el bloque</translation>
     </message>
     <message>
-        <source>Fee (in MUE/kB) to add to transactions you send (default: %s)</source>
-        <translation>Comisión (en MUE/kB) para agregar a la transacción que envías (predeterminado: %s)</translation>
+        <source>Fee (in BOLD/kB) to add to transactions you send (default: %s)</source>
+        <translation>Comisión (en BOLD/kB) para agregar a la transacción que envías (predeterminado: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -4896,8 +4896,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "MonetaryUnit Alert" admin@foo.com
         <translation>Información</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. MonetaryUnit Core is shutting down.</source>
-        <translation>La prueba de salud de inicialización ha fallado. MonetaryUnit Core se cerrará.</translation>
+        <source>Initialization sanity check failed. Bold Core is shutting down.</source>
+        <translation>La prueba de salud de inicialización ha fallado. Bold Core se cerrará.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5572,8 +5572,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "MonetaryUnit Alert" admin@foo.com
         <translation>Monedero bloqueado.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart MonetaryUnit Core to complete</source>
-        <translation>Monedero necesita ser reescrito: reinicie MonetaryUnit Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart Bold Core to complete</source>
+        <translation>Monedero necesita ser reescrito: reinicie Bold Core para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

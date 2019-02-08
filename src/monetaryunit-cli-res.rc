@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "MonetaryUnit"
-            VALUE "FileDescription",    "MonetaryUnit-cli (OSS RPC client for MonetaryUnit)"
+            VALUE "CompanyName",        "Bold"
+            VALUE "FileDescription",    "Bold-cli (OSS RPC client for Bold)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "monetaryunit-cli"
+            VALUE "InternalName",       "bold-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "monetaryunit-cli.exe"
-            VALUE "ProductName",        "MonetaryUnit-cli"
+            VALUE "OriginalFilename",   "bold-cli.exe"
+            VALUE "ProductName",        "Bold-cli"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

@@ -62,12 +62,12 @@
         <translation>Indirizzi di ricezione</translation>
     </message>
     <message>
-        <source>These are your MonetaryUnit addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questi sono gli indirizzi MonetaryUnit per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
+        <source>These are your Bold addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questi sono gli indirizzi Bold per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
     </message>
     <message>
-        <source>These are your MonetaryUnit addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Questi sono gli indirizzi MonetaryUnit per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
+        <source>These are your Bold addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Questi sono gli indirizzi Bold per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Conferma cifratura portafoglio</translation>
     </message>
     <message>
-        <source>MonetaryUnit will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your MUEs from being stolen by malware infecting your computer.</source>
-        <translation>MonetaryUnit verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi MUE dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
+        <source>Bold will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BOLDs from being stolen by malware infecting your computer.</source>
+        <translation>Bold verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi BOLD dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Confermi di voler crittografare il portafoglio?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MUE&lt;/b&gt;!</source>
-        <translation>Attenzione: Se crittografi il portafoglio e poi perdi la parola d'ordine, &lt;b&gt;PERDERAI TUTTI I TUOI MUE&lt;7b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BOLD&lt;/b&gt;!</source>
+        <translation>Attenzione: Se crittografi il portafoglio e poi perdi la parola d'ordine, &lt;b&gt;PERDERAI TUTTI I TUOI BOLD&lt;7b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -239,16 +239,16 @@
         <translation>&amp;BIP 38 Criptato</translation>
     </message>
     <message>
-        <source>Enter a MonetaryUnit Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Inserisci un indirizzo MonetaryUnit che desideri crittografare utilizzando BIP 38. Inserisci una passphrase nella casella centrale. Premi Cripta per calcolare la chiave privata crittografata.</translation>
+        <source>Enter a Bold Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Inserisci un indirizzo Bold che desideri crittografare utilizzando BIP 38. Inserisci una passphrase nella casella centrale. Premi Cripta per calcolare la chiave privata crittografata.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Indirizzo:</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address to sign the message with</source>
-        <translation>L'indirizzo MonetaryUnit per firmare il messaggio con</translation>
+        <source>The Bold address to sign the message with</source>
+        <translation>L'indirizzo Bold per firmare il messaggio con</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this MonetaryUnit address</source>
-        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo MonetaryUnit</translation>
+        <source>Sign the message to prove you own this Bold address</source>
+        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo Bold</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Immettere la chiave privata codificata BIP 38. Inserire la passphrase nella casella centrale. Fare clic su Decripta Chiave per calcolare la chiave privata. Dopo che la chiave viene decrittata, cliccando su "Importa indirizzo" verrà aggiunta questa chiave privata al portafoglio.</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address the message was signed with</source>
-        <translation>L'indirizzo MonetaryUnit con cui è stato firmato il messaggio</translation>
+        <source>The Bold address the message was signed with</source>
+        <translation>L'indirizzo Bold con cui è stato firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified MonetaryUnit address</source>
-        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo MonetaryUnit specificato </translation>
+        <source>Verify the message to ensure it was signed with the specified Bold address</source>
+        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo Bold specificato </translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -590,16 +590,16 @@
         <translation>Schede degli strumenti</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Core</translation>
+        <source>Bold Core</source>
+        <translation>Bold Core</translation>
     </message>
     <message>
-        <source>Send coins to a MonetaryUnit address</source>
-        <translation>Invia monete all' indirizzo MonetaryUnit</translation>
+        <source>Send coins to a Bold address</source>
+        <translation>Invia monete all' indirizzo Bold</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and monetaryunit: URIs)</source>
-        <translation>Richiedi pagamenti (genera codici QR e monetaryunit: URIs)</translation>
+        <source>Request payments (generates QR codes and bold: URIs)</source>
+        <translation>Richiedi pagamenti (genera codici QR e bold: URIs)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -610,24 +610,24 @@
         <translation>Esplora i masternodes</translation>
     </message>
     <message>
-        <source>&amp;About MonetaryUnit Core</source>
-        <translation>&amp;Informazioni MonetaryUnit Core</translation>
+        <source>&amp;About Bold Core</source>
+        <translation>&amp;Informazioni Bold Core</translation>
     </message>
     <message>
-        <source>Show information about MonetaryUnit Core</source>
-        <translation>Visualizza informazioni su MonetaryUnit Core</translation>
+        <source>Show information about Bold Core</source>
+        <translation>Visualizza informazioni su Bold Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for MonetaryUnit</source>
-        <translation>Modifica le opzioni di configurazione per MonetaryUnit</translation>
+        <source>Modify configuration options for Bold</source>
+        <translation>Modifica le opzioni di configurazione per Bold</translation>
     </message>
     <message>
-        <source>Sign messages with your MonetaryUnit addresses to prove you own them</source>
-        <translation>Firma i messaggi con i tuoi indirizzi MonetaryUnit per dimostrare di essere il proprietario </translation>
+        <source>Sign messages with your Bold addresses to prove you own them</source>
+        <translation>Firma i messaggi con i tuoi indirizzi Bold per dimostrare di essere il proprietario </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified MonetaryUnit addresses</source>
-        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi MonetaryUnit specifici</translation>
+        <source>Verify messages to ensure they were signed with specified Bold addresses</source>
+        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi Bold specifici</translation>
     </message>
     <message>
         <source>Encrypt and decrypt private keys using a passphrase</source>
@@ -638,16 +638,16 @@
         <translation>Impostazioni MultiSend</translation>
     </message>
     <message>
-        <source>Open a MonetaryUnit: URI or payment request</source>
-        <translation>Apri un MonetaryUnit: URI o richiesta di pagamento</translation>
+        <source>Open a Bold: URI or payment request</source>
+        <translation>Apri un Bold: URI o richiesta di pagamento</translation>
     </message>
     <message>
         <source>Block explorer window</source>
         <translation>Finestra Block Explorer</translation>
     </message>
     <message>
-        <source>Show the MonetaryUnit Core help message to get a list with possible MonetaryUnit command-line options</source>
-        <translation>Mostra il messaggio di aiuto MonetaryUnit Core per ottenere un elenco con le possibili opzioni di riga di comando MonetaryUnit</translation>
+        <source>Show the Bold Core help message to get a list with possible Bold command-line options</source>
+        <translation>Mostra il messaggio di aiuto Bold Core per ottenere un elenco con le possibili opzioni di riga di comando Bold</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -753,8 +753,8 @@ MultiSend: %1</translation>
         <translation>Cerca</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (monetaryunit.conf).</source>
-        <translation>Non tutte le transazioni verranno visualizzate. Per vedere tutte le transazioni è necessario aggiungere txindex=1 nel file di configurazione (monetaryunit.conf)</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (bold.conf).</source>
+        <translation>Non tutte le transazioni verranno visualizzate. Per vedere tutte le transazioni è necessario aggiungere txindex=1 nel file di configurazione (bold.conf)</translation>
     </message>
 </context>
 <context>
@@ -888,8 +888,8 @@ MultiSend: %1</translation>
         <translation>versione</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Core</translation>
+        <source>Bold Core</source>
+        <translation>Bold Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -915,8 +915,8 @@ MultiSend: %1</translation>
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Core</translation>
+        <source>Bold Core</source>
+        <translation>Bold Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1144,8 +1144,8 @@ MultiSend: %1</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The MonetaryUnit address to sign the message with</source>
-        <translation>L'indirizzo MonetaryUnit per firmare il messaggio con</translation>
+        <source>The Bold address to sign the message with</source>
+        <translation>L'indirizzo Bold per firmare il messaggio con</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1168,16 +1168,16 @@ MultiSend: %1</translation>
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this MonetaryUnit address</source>
-        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo MonetaryUnit</translation>
+        <source>Sign the message to prove you own this Bold address</source>
+        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo Bold</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address the message was signed with</source>
-        <translation>L'indirizzo MonetaryUnit con cui è stato firmato il messaggio</translation>
+        <source>The Bold address the message was signed with</source>
+        <translation>L'indirizzo Bold con cui è stato firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified MonetaryUnit address</source>
-        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo MonetaryUnit specificato </translation>
+        <source>Verify the message to ensure it was signed with the specified Bold address</source>
+        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo Bold specificato </translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1215,8 +1215,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Core</translation>
+        <source>Bold Core</source>
+        <translation>Bold Core</translation>
     </message>
     </context>
 <context>
@@ -1314,7 +1314,7 @@ MultiSend: %1</translation>
     <name>ZPhrControlDialog</name>
     </context>
 <context>
-    <name>monetaryunit-core</name>
+    <name>bold-core</name>
     <message>
         <source>Error</source>
         <translation>Errore</translation>

@@ -1,6 +1,6 @@
 [Protocol]
-exec=monetaryunit-qt '%u'
-protocol=monetaryunit
+exec=bold-qt '%u'
+protocol=bold
 input=none
 output=none
 helper=true

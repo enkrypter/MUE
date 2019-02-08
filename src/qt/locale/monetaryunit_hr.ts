@@ -115,8 +115,8 @@
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address the message was signed with</source>
-        <translation>MonetaryUnit adresa s kojom je potpisana poruka</translation>
+        <source>The Bold address the message was signed with</source>
+        <translation>Bold adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
         <source>Allowed: 0-9,a-z,A-Z,</source>
@@ -150,8 +150,8 @@
         <translation>Otvori konfiguracijsku datoteku</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Core</translation>
+        <source>Bold Core</source>
+        <translation>Bold Core</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -162,8 +162,8 @@
         <translation>&amp;BIP38 alat</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core client</source>
-        <translation>MonetaryUnit Core klijent</translation>
+        <source>Bold Core client</source>
+        <translation>Bold Core klijent</translation>
     </message>
     <message>
         <source>Error</source>
@@ -256,15 +256,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Core</translation>
+        <source>Bold Core</source>
+        <translation>Bold Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Core</translation>
+        <source>Bold Core</source>
+        <translation>Bold Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -535,8 +535,8 @@
         <translation>ne</translation>
     </message>
     <message>
-        <source>0 MUE</source>
-        <translation>0 MUE</translation>
+        <source>0 BOLD</source>
+        <translation>0 BOLD</translation>
     </message>
     <message>
         <source>Confirmation time:</source>
@@ -597,8 +597,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>MonetaryUnit Core is shutting down...</source>
-        <translation>MonetaryUnit Core se gasi...</translation>
+        <source>Bold Core is shutting down...</source>
+        <translation>Bold Core se gasi...</translation>
     </message>
     </context>
 <context>
@@ -620,8 +620,8 @@
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address the message was signed with</source>
-        <translation>MonetaryUnit adresa s kojom je potpisana poruka</translation>
+        <source>The Bold address the message was signed with</source>
+        <translation>Bold adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
         <source>Message signed.</source>
@@ -635,8 +635,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Core</translation>
+        <source>Bold Core</source>
+        <translation>Bold Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -790,7 +790,7 @@
     </message>
     </context>
 <context>
-    <name>monetaryunit-core</name>
+    <name>bold-core</name>
     <message>
         <source>Error</source>
         <translation>Greška</translation>

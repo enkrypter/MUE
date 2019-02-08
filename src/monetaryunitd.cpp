@@ -30,8 +30,8 @@
  *
  * \section intro_sec Introduction
  *
- * This is the developer documentation of the reference client for an experimental new digital currency called MonetaryUnit (http://www.monetaryunit.io),
- * which enables instant payments to anyone, anywhere in the world. MonetaryUnit uses peer-to-peer technology to operate
+ * This is the developer documentation of the reference client for an experimental new digital currency called Bold (http://www.bold.io),
+ * which enables instant payments to anyone, anywhere in the world. Bold uses peer-to-peer technology to operate
  * with no central authority: managing transactions and issuing money are carried out collectively by the network.
  *
  * The software is a community-driven open source project, released under the MIT license.
@@ -70,18 +70,18 @@ bool AppInit(int argc, char* argv[])
     //
     // Parameters
     //
-    // If Qt is used, parameters/monetaryunit.conf are parsed in qt/monetaryunit.cpp's main()
+    // If Qt is used, parameters/bold.conf are parsed in qt/bold.cpp's main()
     ParseParameters(argc, argv);
 
     // Process help and version before taking care about datadir
     if (mapArgs.count("-?") || mapArgs.count("-help") || mapArgs.count("-version")) {
-        std::string strUsage = _("MonetaryUnit Core Daemon") + " " + _("version") + " " + FormatFullVersion() + "\n";
+        std::string strUsage = _("Bold Core Daemon") + " " + _("version") + " " + FormatFullVersion() + "\n";
 
         if (mapArgs.count("-version")) {
             strUsage += LicenseInfo();
         } else {
             strUsage += "\n" + _("Usage:") + "\n" +
-                        "  monetaryunitd [options]                     " + _("Start MonetaryUnit Core Daemon") + "\n";
+                        "  boldd [options]                     " + _("Start Bold Core Daemon") + "\n";
 
             strUsage += "\n" + HelpMessage(HMM_BITCOIND);
         }
@@ -110,17 +110,17 @@ bool AppInit(int argc, char* argv[])
         // Command-line RPC
         bool fCommandLine = false;
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "monetaryunit:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "bold:"))
                 fCommandLine = true;
 
         if (fCommandLine) {
-            fprintf(stderr, "Error: There is no RPC client functionality in monetaryunitd anymore. Use the monetaryunit-cli utility instead.\n");
+            fprintf(stderr, "Error: There is no RPC client functionality in boldd anymore. Use the bold-cli utility instead.\n");
             exit(1);
         }
 #ifndef WIN32
         fDaemon = GetBoolArg("-daemon", false);
         if (fDaemon) {
-            fprintf(stdout, "MonetaryUnit server starting\n");
+            fprintf(stdout, "Bold server starting\n");
 
             // Daemonize
             pid_t pid = fork();
@@ -165,7 +165,7 @@ int main(int argc, char* argv[])
 {
     SetupEnvironment();
 
-    // Connect monetaryunitd signal handlers
+    // Connect boldd signal handlers
     noui_connect();
 
     return (AppInit(argc, argv) ? 0 : 1);

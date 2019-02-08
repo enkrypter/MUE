@@ -148,8 +148,8 @@
         <translation>Czy na pewno chcesz zakodować portfel?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MUE&lt;/b&gt;!</source>
-        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE MUE!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BOLD&lt;/b&gt;!</source>
+        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE BOLD!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -227,8 +227,8 @@
         <translation>Zakodowany klucz:</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this MonetaryUnit address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres MonetaryUnit jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this Bold address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Bold jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -518,16 +518,16 @@
         <translation>&amp;Pomoc</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>&amp;Rdzeń MonetaryUnit</translation>
+        <source>Bold Core</source>
+        <translation>&amp;Rdzeń Bold</translation>
     </message>
     <message>
-        <source>Send coins to a MonetaryUnit address</source>
-        <translation>Wyślij monety do adresu MonetaryUnit</translation>
+        <source>Send coins to a Bold address</source>
+        <translation>Wyślij monety do adresu Bold</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and monetaryunit: URIs)</source>
-        <translation>Zarządaj płatności (generuje kod QR i monetaryunit:URI)</translation>
+        <source>Request payments (generates QR codes and bold: URIs)</source>
+        <translation>Zarządaj płatności (generuje kod QR i bold:URI)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -538,24 +538,24 @@
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About MonetaryUnit Core</source>
+        <source>&amp;About Bold Core</source>
         <translation>&amp;O rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Show information about MonetaryUnit Core</source>
+        <source>Show information about Bold Core</source>
         <translation>Pokaż informacje o rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Modify configuration options for MonetaryUnit</source>
-        <translation>Modyfikuj opcje konfiguracji MonetaryUnit</translation>
+        <source>Modify configuration options for Bold</source>
+        <translation>Modyfikuj opcje konfiguracji Bold</translation>
     </message>
     <message>
-        <source>Sign messages with your MonetaryUnit addresses to prove you own them</source>
-        <translation>Zatwierdź wiadomość z twoimi adresami MonetaryUnit, by udowodnić, że jesteś w ich posiadaniu</translation>
+        <source>Sign messages with your Bold addresses to prove you own them</source>
+        <translation>Zatwierdź wiadomość z twoimi adresami Bold, by udowodnić, że jesteś w ich posiadaniu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified MonetaryUnit addresses</source>
-        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu MonetaryUnit</translation>
+        <source>Verify messages to ensure they were signed with specified Bold addresses</source>
+        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu Bold</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -582,8 +582,8 @@
         <translation>Otwórz &amp;Plik konfiguracji Masternode</translation>
     </message>
     <message>
-        <source>Open a MonetaryUnit: URI or payment request</source>
-        <translation>OtwórzMUEX: URI i żądanie zapłaty</translation>
+        <source>Open a Bold: URI or payment request</source>
+        <translation>OtwórzBOLDX: URI i żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -594,12 +594,12 @@
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the MonetaryUnit Core help message to get a list with possible MonetaryUnit command-line options</source>
-        <translation>Pokaż wiadomość pomocy rdzenia MonetaryUnit, aby dostać listę możliwych opcji MonetaryUnit command-line</translation>
+        <source>Show the Bold Core help message to get a list with possible Bold command-line options</source>
+        <translation>Pokaż wiadomość pomocy rdzenia Bold, aby dostać listę możliwych opcji Bold command-line</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core client</source>
-        <translation>Rdzeń MonetaryUnit klient</translation>
+        <source>Bold Core client</source>
+        <translation>Rdzeń Bold klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -912,8 +912,8 @@ MultiWysyłlka: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>&amp;Rdzeń MonetaryUnit</translation>
+        <source>Bold Core</source>
+        <translation>&amp;Rdzeń Bold</translation>
     </message>
     </context>
 <context>
@@ -927,8 +927,8 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>&amp;Rdzeń MonetaryUnit</translation>
+        <source>Bold Core</source>
+        <translation>&amp;Rdzeń Bold</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1188,12 +1188,12 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Zezwól na przychodzące połączenia</translation>
     </message>
     <message>
-        <source>Automatically start MonetaryUnit after logging in to the system.</source>
-        <translation>Automatycznie uruchom MonetaryUnit po zalogowaniu do systemu</translation>
+        <source>Automatically start Bold after logging in to the system.</source>
+        <translation>Automatycznie uruchom Bold po zalogowaniu do systemu</translation>
     </message>
     <message>
-        <source>&amp;Start MonetaryUnit on system login</source>
-        <translation>&amp;Uruchom MonetaryUnit podczas logowania do systemu</translation>
+        <source>&amp;Start Bold on system login</source>
+        <translation>&amp;Uruchom Bold podczas logowania do systemu</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1212,18 +1212,18 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>&amp;Sieć</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting MonetaryUnit.</source>
-        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie MonetaryUnit</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bold.</source>
+        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie Bold</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations</source>
+https://www.transifex.com/bold-project/bold-project-translations</source>
         <translation>Brakuje języka bądź nieukończona pełnego tłumaczenia? Pomóż w tłumaczeniu tutaj:
-https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations </translation>
+https://www.transifex.com/bold-project/bold-project-translations </translation>
     </message>
     <message>
-        <source>Connect to the MonetaryUnit network through a SOCKS5 proxy.</source>
-        <translation>Połącz z siecią MonetaryUnit poprzez SOCKS5 proxy.</translation>
+        <source>Connect to the Bold network through a SOCKS5 proxy.</source>
+        <translation>Połącz z siecią Bold poprzez SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1461,8 +1461,8 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
         <translation>Liczba</translation>
     </message>
     <message>
-        <source>Enter a MonetaryUnit address (e.g. %1)</source>
-        <translation>Wprowadź adres MonetaryUnit (np. %1)</translation>
+        <source>Enter a Bold address (e.g. %1)</source>
+        <translation>Wprowadź adres Bold (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1900,8 +1900,8 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this MonetaryUnit address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres MonetaryUnit jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this Bold address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Bold jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -1935,8 +1935,8 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>&amp;Rdzeń MonetaryUnit</translation>
+        <source>Bold Core</source>
+        <translation>&amp;Rdzeń Bold</translation>
     </message>
     </context>
 <context>
@@ -2034,7 +2034,7 @@ https://www.transifex.com/monetaryunit-project/monetaryunit-project-translations
     </message>
     </context>
 <context>
-    <name>monetaryunit-core</name>
+    <name>bold-core</name>
     <message>
         <source>Error</source>
         <translation>Błąd</translation>

@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "MonetaryUnit"
-            VALUE "FileDescription",    "monetaryunitd (OSS daemon/client for MonetaryUnit)"
+            VALUE "CompanyName",        "Bold"
+            VALUE "FileDescription",    "boldd (OSS daemon/client for Bold)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "monetaryunitd"
+            VALUE "InternalName",       "boldd"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "monetaryunitd.exe"
-            VALUE "ProductName",        "monetaryunitd"
+            VALUE "OriginalFilename",   "boldd.exe"
+            VALUE "ProductName",        "boldd"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

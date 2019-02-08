@@ -1,25 +1,25 @@
-# /etc/conf.d/monetaryunitd: config file for /etc/init.d/monetaryunitd
+# /etc/conf.d/boldd: config file for /etc/init.d/boldd
 
 # Config file location
-#BITCOIND_CONFIGFILE="/etc/monetaryunit/monetaryunit.conf"
+#BITCOIND_CONFIGFILE="/etc/bold/bold.conf"
 
 # What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
-#BITCOIND_PIDDIR="/var/run/monetaryunitd"
+#BITCOIND_PIDDIR="/var/run/boldd"
 
 # What filename to give the pidfile
-#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/monetaryunitd.pid"
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/boldd.pid"
 
-# Where to write monetaryunitd data (be mindful that the blockchain is large)
-#BITCOIND_DATADIR="/var/lib/monetaryunitd"
+# Where to write boldd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/boldd"
 
-# User and group to own monetaryunitd process
-#BITCOIND_USER="monetaryunit"
-#BITCOIND_GROUP="monetaryunit"
+# User and group to own boldd process
+#BITCOIND_USER="bold"
+#BITCOIND_GROUP="bold"
 
-# Path to monetaryunitd executable
-#BITCOIND_BIN="/usr/bin/monetaryunitd"
+# Path to boldd executable
+#BITCOIND_BIN="/usr/bin/boldd"
 
-# Nice value to run monetaryunitd under
+# Nice value to run boldd under
 #BITCOIND_NICE=0
 
 # Additional options (avoid -conf and -datadir, use flags above)

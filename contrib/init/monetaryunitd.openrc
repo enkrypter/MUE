@@ -2,24 +2,24 @@
 
 # backward compatibility for existing gentoo layout
 #
-if [ -d "/var/lib/monetaryunit/.monetaryunit" ]; then
-	BITCOIND_DEFAULT_DATADIR="/var/lib/monetaryunit/.monetaryunit"
+if [ -d "/var/lib/bold/.bold" ]; then
+	BITCOIND_DEFAULT_DATADIR="/var/lib/bold/.bold"
 else
-	BITCOIND_DEFAULT_DATADIR="/var/lib/monetaryunitd"
+	BITCOIND_DEFAULT_DATADIR="/var/lib/boldd"
 fi
 
-BITCOIND_CONFIGFILE=${BITCOIND_CONFIGFILE:-/etc/monetaryunit/monetaryunit.conf}
-BITCOIND_PIDDIR=${BITCOIND_PIDDIR:-/var/run/monetaryunitd}
-BITCOIND_PIDFILE=${BITCOIND_PIDFILE:-${BITCOIND_PIDDIR}/monetaryunitd.pid}
+BITCOIND_CONFIGFILE=${BITCOIND_CONFIGFILE:-/etc/bold/bold.conf}
+BITCOIND_PIDDIR=${BITCOIND_PIDDIR:-/var/run/boldd}
+BITCOIND_PIDFILE=${BITCOIND_PIDFILE:-${BITCOIND_PIDDIR}/boldd.pid}
 BITCOIND_DATADIR=${BITCOIND_DATADIR:-${BITCOIND_DEFAULT_DATADIR}}
-BITCOIND_USER=${BITCOIND_USER:-monetaryunit}
-BITCOIND_GROUP=${BITCOIND_GROUP:-monetaryunit}
-BITCOIND_BIN=${BITCOIND_BIN:-/usr/bin/monetaryunitd}
+BITCOIND_USER=${BITCOIND_USER:-bold}
+BITCOIND_GROUP=${BITCOIND_GROUP:-bold}
+BITCOIND_BIN=${BITCOIND_BIN:-/usr/bin/boldd}
 
-name="MonetaryUnit Core Daemon"
-description="MonetaryUnit crypto-currency p2p network daemon"
+name="Bold Core Daemon"
+description="Bold crypto-currency p2p network daemon"
 
-command="/usr/bin/monetaryunitd"
+command="/usr/bin/boldd"
 command_args="-pid=\"${BITCOIND_PIDFILE}\" \
 		-conf=\"${BITCOIND_CONFIGFILE}\" \
 		-datadir=\"${BITCOIND_DATADIR}\" \
@@ -65,7 +65,7 @@ checkconfig()
 {
 	if ! grep -qs '^rpcpassword=' "${BITCOIND_CONFIGFILE}" ; then
 		eerror ""
-		eerror "ERROR: You must set a secure rpcpassword to run monetaryunitd."
+		eerror "ERROR: You must set a secure rpcpassword to run boldd."
 		eerror "The setting must appear in ${BITCOIND_CONFIGFILE}"
 		eerror ""
 		eerror "This password is security critical to securing wallets "
@@ -78,7 +78,7 @@ checkconfig()
 		eerror "It is also recommended that you also set alertnotify so you are "
 		eerror "notified of problems:"
 		eerror ""
-		eerror "ie: alertnotify=echo %%s | mail -s \"MonetaryUnit Alert\"" \
+		eerror "ie: alertnotify=echo %%s | mail -s \"Bold Alert\"" \
 			"admin@foo.com"
 		eerror ""
 		return 1

@@ -58,12 +58,12 @@
         <translation>Mottagar adresser</translation>
     </message>
     <message>
-        <source>These are your MonetaryUnit addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Det här är dina MonetaryUnit adresser för att sända betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
+        <source>These are your Bold addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Det här är dina Bold adresser för att sända betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
     </message>
     <message>
-        <source>These are your MonetaryUnit addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Det här är dina MonetaryUnit adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
+        <source>These are your Bold addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Det här är dina Bold adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -160,16 +160,16 @@
         <translation>Bekräfta plånboks krypering</translation>
     </message>
     <message>
-        <source>MonetaryUnit will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your MUEs from being stolen by malware infecting your computer.</source>
-        <translation>MonetaryUnit kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina MUEs från att bli stulna av skadeprogram som infekterat din dator.</translation>
+        <source>Bold will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BOLDs from being stolen by malware infecting your computer.</source>
+        <translation>Bold kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina BOLDs från att bli stulna av skadeprogram som infekterat din dator.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Är du säker på att du vill kryptera din plånbok?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MUE&lt;/b&gt;!</source>
-        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA MUE&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BOLD&lt;/b&gt;!</source>
+        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA BOLD&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -223,8 +223,8 @@
         <translation>BIP 38 Kryptering</translation>
     </message>
     <message>
-        <source>Enter a MonetaryUnit Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Ange en MonetaryUnit adress som du vill kryptera med BIP 38.
+        <source>Enter a Bold Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Ange en Bold adress som du vill kryptera med BIP 38.
 Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den krypterade privata nyckeln.</translation>
     </message>
     <message>
@@ -232,8 +232,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Adress:</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address to sign the message with</source>
-        <translation>MonetaryUnit adressen för signera meddelandet med</translation>
+        <source>The Bold address to sign the message with</source>
+        <translation>Bold adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -264,8 +264,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this MonetaryUnit address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna MonetaryUnit adress</translation>
+        <source>Sign the message to prove you own this Bold address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna Bold adress</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -288,12 +288,12 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Ange BIP 38 krypterade privata nyckeln. Ange lösenfrasen i med mittersta boxen. Tryck på krypetra nyckel för att beräkna den privata nyckeln. Efter att nyckeln är avkrypterad, Tryck på 'Importera Adress' kommer att lägga till denna privata nyckel till plånboken.</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address the message was signed with</source>
-        <translation>MonetaryUnit adressen meddelandet blev signerat med</translation>
+        <source>The Bold address the message was signed with</source>
+        <translation>Bold adressen meddelandet blev signerat med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified MonetaryUnit address</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika MonetaryUnit adressen.</translation>
+        <source>Verify the message to ensure it was signed with the specified Bold address</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika Bold adressen.</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -583,16 +583,16 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>flik vertygsrad</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Kärna</translation>
+        <source>Bold Core</source>
+        <translation>Bold Kärna</translation>
     </message>
     <message>
-        <source>Send coins to a MonetaryUnit address</source>
-        <translation>Skicka mynt till en MonetaryUnit adress</translation>
+        <source>Send coins to a Bold address</source>
+        <translation>Skicka mynt till en Bold adress</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and monetaryunit: URIs)</source>
-        <translation>Begär betalning (genererar QR kod och monetaryunit: URls)</translation>
+        <source>Request payments (generates QR codes and bold: URIs)</source>
+        <translation>Begär betalning (genererar QR kod och bold: URls)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -603,24 +603,24 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Utforska masternoder</translation>
     </message>
     <message>
-        <source>&amp;About MonetaryUnit Core</source>
-        <translation>Om MonetaryUnit Kärnan</translation>
+        <source>&amp;About Bold Core</source>
+        <translation>Om Bold Kärnan</translation>
     </message>
     <message>
-        <source>Show information about MonetaryUnit Core</source>
-        <translation>Visa information om MonetaryUnit Kärnan</translation>
+        <source>Show information about Bold Core</source>
+        <translation>Visa information om Bold Kärnan</translation>
     </message>
     <message>
-        <source>Modify configuration options for MonetaryUnit</source>
-        <translation>Ändra konfigurationsval för MonetaryUnit</translation>
+        <source>Modify configuration options for Bold</source>
+        <translation>Ändra konfigurationsval för Bold</translation>
     </message>
     <message>
-        <source>Sign messages with your MonetaryUnit addresses to prove you own them</source>
-        <translation>Signera meddelanden med din MonetaryUnit adress för att visa att du äger dem</translation>
+        <source>Sign messages with your Bold addresses to prove you own them</source>
+        <translation>Signera meddelanden med din Bold adress för att visa att du äger dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified MonetaryUnit addresses</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika MonetaryUnit adressen.</translation>
+        <source>Verify messages to ensure they were signed with specified Bold addresses</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika Bold adressen.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -631,8 +631,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Kryptera och avkryptera privata nycklar genom användning av lösenfras</translation>
     </message>
     <message>
-        <source>MonetaryUnit Core client</source>
-        <translation>MonetaryUnit kärn klient</translation>
+        <source>Bold Core client</source>
+        <translation>Bold kärn klient</translation>
     </message>
     <message>
         <source>%1 and %2</source>
@@ -837,15 +837,15 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Kärna</translation>
+        <source>Bold Core</source>
+        <translation>Bold Kärna</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Kärna</translation>
+        <source>Bold Core</source>
+        <translation>Bold Kärna</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1157,8 +1157,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The MonetaryUnit address to sign the message with</source>
-        <translation>MonetaryUnit adressen för signera meddelandet med</translation>
+        <source>The Bold address to sign the message with</source>
+        <translation>Bold adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1181,16 +1181,16 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this MonetaryUnit address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna MonetaryUnit adress</translation>
+        <source>Sign the message to prove you own this Bold address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna Bold adress</translation>
     </message>
     <message>
-        <source>The MonetaryUnit address the message was signed with</source>
-        <translation>MonetaryUnit adressen meddelandet blev signerat med</translation>
+        <source>The Bold address the message was signed with</source>
+        <translation>Bold adressen meddelandet blev signerat med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified MonetaryUnit address</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika MonetaryUnit adressen.</translation>
+        <source>Verify the message to ensure it was signed with the specified Bold address</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika Bold adressen.</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1232,8 +1232,8 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>MonetaryUnit Core</source>
-        <translation>MonetaryUnit Kärna</translation>
+        <source>Bold Core</source>
+        <translation>Bold Kärna</translation>
     </message>
     </context>
 <context>
@@ -1419,7 +1419,7 @@ Ange en lösenfras i den mellersta boxen. Tryck kryptera för att beräkna den k
     <name>ZPhrControlDialog</name>
     </context>
 <context>
-    <name>monetaryunit-core</name>
+    <name>bold-core</name>
     <message>
         <source>Error</source>
         <translation>Fel</translation>
