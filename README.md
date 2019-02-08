@@ -30,8 +30,8 @@ Bold is a cutting edge cryptocurrency, with many features not available in most 
 
 ## BOLD resources ##
 * Client & Source:
-[Client Binaries](https://github.com/boldcoin/BOLD/releases)
-[Source Code](https://github.com/boldcoin/BOLD)
+[Client Binaries](https://github.com/enkrypter/BOLD/releases)
+[Source Code](https://github.com/enkrypter/BOLD)
 * Links:
 [Homepage](https://www.bold.org)
 [CoinBuy](https://www.coinbuy.com)
